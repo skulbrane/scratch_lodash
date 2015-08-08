@@ -3,7 +3,7 @@
 
 ## Overview
 
-*"A Javascript utility library delivering **consistency**, **modularity**, **performance**, and **extras**."* - [lodash](https://lodash.com)
+Lodash is: "*A Javascript utility library delivering* ***consistency***, ***modularity***, ***performance***, *and* ***extras***." - [lodash](https://lodash.com) 
 
 This repot is me learning lodash.
 
