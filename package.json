@@ -1,0 +1,19 @@
+{
+  "name": "scratch_lodash",
+  "version": "1.0.0",
+  "description": "lodash sandbox",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skulbrane/scratch_lodash.git"
+  },
+  "author": "skulbrane",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/skulbrane/scratch_lodash/issues"
+  },
+  "homepage": "https://github.com/skulbrane/scratch_lodash#readme"
+}
