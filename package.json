@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/skulbrane/scratch_lodash/issues"
   },
-  "homepage": "https://github.com/skulbrane/scratch_lodash#readme"
+  "homepage": "https://github.com/skulbrane/scratch_lodash#readme",
+  "devDependencies": {
+    "co": "^4.6.0",
+    "node-uuid": "^1.4.3",
+    "traceur": "0.0.91"
+  },
+  "dependencies": {
+    "es6-module-loader": "^0.17.5"
+  }
 }
