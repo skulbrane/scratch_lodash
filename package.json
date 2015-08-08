@@ -21,7 +21,5 @@
     "node-uuid": "^1.4.3",
     "traceur": "0.0.91"
   },
-  "dependencies": {
-    "es6-module-loader": "^0.17.5"
-  }
+  "dependencies": {}
 }
